@@ -22,7 +22,7 @@ A effective ToDo List application developed with Python and Tkinter. This projec
 
 Ensure you have the following installed:
 
-- Python 3.x
+- Python 3.12.0
 - Tkinter (usually bundled with Python)
 # Installation
 
